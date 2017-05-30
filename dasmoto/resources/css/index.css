@@ -1,0 +1,28 @@
+html {
+  font-family: Helvetica, sans-serif;
+}
+.header {
+  background-image: url("../images/pattern.jpeg");
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+}
+.section {
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+.price {
+  font-weight: bold;
+  color: blue;
+}
+#brush_title {
+  background-color: mediumspringgreen;
+}
+#frame_title {
+  background-color: lightcoral;
+}
+#paint_title {
+  background-color: skyblue;
+}
